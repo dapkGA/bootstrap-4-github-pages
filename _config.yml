@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Premium APK
-email: "apk@knoacc.org"
+# email: "apk@knoacc.org"
 description: >- # this means to ignore newlines until "baseurl:"
   Index APK - Download all premium apk from various popular cloud server.
 #baseurl: "" # the subpath of your site, e.g. /blog
