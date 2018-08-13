@@ -26,6 +26,7 @@ repository: "dapkGA/premium-apk"
 
 # Build settings
 plugins:
+  - jekyll-seo-tag
   - jekyll-feed
   - jekyll-sitemap
 
