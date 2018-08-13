@@ -19,6 +19,11 @@ description: >- # this means to ignore newlines until "baseurl:"
   Index APK - Download all premium apk from various popular cloud server.
 #baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://apk.knoacc.org" # the base hostname & protocol for your site, e.g. http://example.com
+facebook:
+ app_id: 715880638622922
+ publisher: indexAPKs
+ admins: phateholloway
+
 #twitter_username: jekyllrb
 #github_username:  jekyll
 
