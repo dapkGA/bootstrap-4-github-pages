@@ -4,7 +4,7 @@ excerpt: Download mobizen screen recorder premium apk for free
 ---
 
 Download the most easy to use screen recorder Mobizen now and create your first, amazing video!
-{:.notice.notice--dark}
+{:.notice.notice-info}
 
 Mobizen is the most easy-to-use, convenient screen recorder that allows you to record, capture and edit. 
 Everyone can use the 100% free features to make the best videos!
@@ -37,4 +37,4 @@ You can keep up-to-date with Mobizen Features, News, and the continually growing
 
 ### Download
 
-[Download 33MB](/dl/mega?stat=Ready&hash=){:.btn.btn--primary}
+[Download 33MB](/dl/mega?stat=Ready&hash=){:.btn.btn-primary}
