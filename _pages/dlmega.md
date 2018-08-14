@@ -15,17 +15,7 @@ At Good Financial Cents, we pride ourselves in connecting people with the insura
 
 ### Our Top 10 Best Life Insurance Companies for 2018
 
-C0MPANY NAME	A.M BEST RATING	FITCH RATING
-Haven Life	A++	AA+
-Banner	A+	AA-
-AIG	A	A+
-Prudential	A+	A+
-MetLife	A+	AA-
-Voya Financial	A	A
-Mutual Of Omaha	A+	n/a
-New York Life	A++	AAA
-Transamerica	A+	A+
-Lincoln	A+	A+
+
 * Active and Healthy? Check out this BONUS
 
 To help you find coverage that fits, we’ll first take a look at our take on the best life insurance companies in the United States for 2018, then dig a little deeper into which companies excel in the kind of coverage you may be looking for. Since policy type and company ratings are key factors in your decision, we’ll also discuss how to decipher that data.
