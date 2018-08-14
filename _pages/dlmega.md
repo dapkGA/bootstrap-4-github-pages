@@ -14,7 +14,8 @@ While you can get quotes from all of the top-rated life insurance companies, you
 At Good Financial Cents, we pride ourselves in connecting people with the insurance company that best meets their specific needs. OR, you can compare quotes the easy way
 
 ### Our Top 10 Best Life Insurance Companies for 2018
-| COMPANY NAME	.M BEST RATING	FITCH RATING
+
+C0MPANY NAME	A.M BEST RATING	FITCH RATING
 Haven Life	A++	AA+
 Banner	A+	AA-
 AIG	A	A+
