@@ -1,6 +1,11 @@
 ---
 title: Mobizen Screen Recorder Premium APK
 excerpt: Download mobizen screen recorder premium apk for free
+image:
+ path: https://lh3.googleusercontent.com/O5lINjN-qTpNBJxXpfOQZ_T0fRdRD226a3ZHje7dCEQdqYwygnjGy-XOLwT4pEkYwcE=w3840-h2160-rw
+ width: 3840
+ height: 2160
+last_modified_at: 2018-08-14 07:39:00 +7
 ---
 
 Download the most easy to use screen recorder Mobizen now and create your first, amazing video!
