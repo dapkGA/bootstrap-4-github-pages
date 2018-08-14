@@ -5,6 +5,7 @@ layout: default
 
   <header>
     <h1>{{ page.title | escape }}</h1>
+    
     <p class="text-muted">
       <time datetime="{{ page.date | date_to_xmlschema }}">
         {%- assign date_format = "%b %-d, %Y" -%}
@@ -15,10 +16,10 @@ layout: default
       {%- endif -%}
     </p>
   </header>
-
+{% include ads/top.html %}
   <section>
     {%- if page.app.logo -%}<img class="img-thumbnail float-left" src="{{ page.app.logo }}" alt="{{ page.title }}"/>{%- endif -%}
     {{ content }}
   </section>
-
+{% include ads/bottom.html %}
 </article>
