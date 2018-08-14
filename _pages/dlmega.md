@@ -8,7 +8,7 @@ Determining who offers the best life insurance is not always a black and white a
 
 {% include ads/middle.html %}
 <div class="text-center">
-<a id="download" class="btn.btn-success" href="">Retrieving</a>
+<a id="download" class="btn btn-success" href="">Retrieving</a>
 {%- include hosts/mega -%}
 </div>
 _remember this:_ the link above is not appear out of nowhere, it's loaded from the page or article before you came here. So if the link is broken, you can go back to previous page and ask/report at the comment section.
