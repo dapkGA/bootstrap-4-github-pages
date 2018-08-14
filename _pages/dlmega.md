@@ -3,15 +3,16 @@ permalink: /dl/mega
 title: The Best Life Insurance Companies in the United States
 excerpt: Top 10 for 2018 Best Life Insurance Companies in the United States
 ---
-_remember this:_ the link here is not appear out of nowhere, it's loaded from the page or article before you came here. So if the link is broken, you can go back to previous page and ask/report at the comment section.
-{:#notice.alert.alert-info.text-center}
-
-<div class="text-center">
-<a id="download" class="btn" href="">Retrieving</a>
-{%- include hosts/mega -%}
-</div>
 
 Determining who offers the best life insurance is not always a black and white answer.
+
+{% include ads/middle.html %}
+<div class="text-center">
+<a id="download" class="btn.btn-success" href="">Retrieving</a>
+{%- include hosts/mega -%}
+</div>
+_remember this:_ the link above is not appear out of nowhere, it's loaded from the page or article before you came here. So if the link is broken, you can go back to previous page and ask/report at the comment section.
+{:#notice.alert.alert-info.text-center}
 
 While you can get quotes from all of the top-rated life insurance companies, you may never know if you’re choosing the best policy for your specific situation.
 
