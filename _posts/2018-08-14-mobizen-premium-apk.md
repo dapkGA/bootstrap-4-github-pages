@@ -1,5 +1,5 @@
 ---
-title: Mobizen Screen Recorder Premium APK
+title: Mobizen Screen Recorder Premium V3.5.1.10 APK
 excerpt: Download mobizen screen recorder premium apk for free
 image:
  path: https://lh3.googleusercontent.com/O5lINjN-qTpNBJxXpfOQZ_T0fRdRD226a3ZHje7dCEQdqYwygnjGy-XOLwT4pEkYwcE=w3840-h2160-rw
@@ -8,13 +8,14 @@ image:
 app:
  logo: https://lh3.googleusercontent.com/L3AG_Bo6B5qzYCkkCbCNgshoBVpoYdLRRtNt1fQI_KCCgSUZVUxsyUcwY6cJjd7W8s4=s170-rw
  id: com.rsupport.mvagent
+ version: 3.5.1.10
 last_modified_at: 2018-08-14 07:39:00 +7
 ---
 
 Download the most easy to use screen recorder Mobizen now and create your first, amazing video!
 {:.notice.notice-info}
 
-Mobizen is the most easy-to-use, convenient screen recorder that allows you to record, capture and edit. 
+Mobizen {{ page.app.version }} is the most easy-to-use, convenient screen recorder that allows you to record, capture and edit. 
 Everyone can use the 100% free features to make the best videos!
 
 ### How to Make the Perfect First Video?
