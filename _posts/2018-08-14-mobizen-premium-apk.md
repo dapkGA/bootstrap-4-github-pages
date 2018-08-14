@@ -45,4 +45,4 @@ You can keep up-to-date with Mobizen Features, News, and the continually growing
 
 ### Download
 
-[Download 33MB](/dl/mega?stat=Ready&hash=){:.btn.btn-primary}
+[Download 33.8 MB](/dl/mega?stat=Ready&hash=h1lDGZwD!cJbU22nlbFhIf45mDuVrTBaSjv-VVuZ2HeRRxAkD344){:.btn.btn-primary}
