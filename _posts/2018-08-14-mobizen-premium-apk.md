@@ -5,6 +5,7 @@ image:
  path: https://lh3.googleusercontent.com/O5lINjN-qTpNBJxXpfOQZ_T0fRdRD226a3ZHje7dCEQdqYwygnjGy-XOLwT4pEkYwcE=w3840-h2160-rw
  width: 3840
  height: 2160
+logo: https://lh3.googleusercontent.com/L3AG_Bo6B5qzYCkkCbCNgshoBVpoYdLRRtNt1fQI_KCCgSUZVUxsyUcwY6cJjd7W8s4=s200-rw
 last_modified_at: 2018-08-14 07:39:00 +7
 ---
 
