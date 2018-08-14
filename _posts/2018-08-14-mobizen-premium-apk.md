@@ -31,9 +31,9 @@ Everyone can use the 100% free features to make the best videos!
 
 
 You can keep up-to-date with Mobizen Features, News, and the continually growing Mobizen Community through the following sites!
-ㆍHelp Center: support.mobizen.com
-ㆍYouTube: youtube.com/mobizenapp
-ㆍCommunity: https://goo.gl/Apu9ef
+- Help Center: support.mobizen.com
+- YouTube: youtube.com/mobizenapp
+- Community: https://goo.gl/Apu9ef
 
 ### Download
 
