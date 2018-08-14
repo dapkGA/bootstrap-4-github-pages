@@ -45,4 +45,5 @@ You can keep up-to-date with Mobizen Features, News, and the continually growing
 
 ### Download
 
-[Download 33.8 MB](/dl/mega?stat=Ready&hash=h1lDGZwD!cJbU22nlbFhIf45mDuVrTBaSjv-VVuZ2HeRRxAkD344){:.btn.btn-primary}
+[Download 33.8 MB](/dl/mega?fn=MobizenPremiumV3.5.1.10.apk&sz=33.8MB&hash=h1lDGZwD!cJbU22nlbFhIf45mDuVrTBaSjv-VVuZ2HeRRxAkD344){:.btn.btn-blue}
+{:.text-center}
