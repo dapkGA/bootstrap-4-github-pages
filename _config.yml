@@ -49,3 +49,4 @@ exclude:
   - update_boostrap.sh
   - CONTRIBUTING.md
   - LICENSE.md
+  - Readme.md
