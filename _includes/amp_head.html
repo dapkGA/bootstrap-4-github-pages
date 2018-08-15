@@ -1,0 +1,36 @@
+{% if page.amp %}
+ {% if page.amp.analytics %}
+  {% include amp/analytics.html %}
+ {% endif %}
+ {% if page.amp.youtube %}
+  {% include amp/youtube.html %}
+ {% endif %}
+ {% if page.amp.facebook %}
+  {% include amp/facebook.html %}
+ {% endif %}
+ {% if page.amp.instagram %}
+  {% include amp/instagram.html %}
+ {% endif %}
+ {% if page.amp.video %}
+  {% include amp/video.html %}
+ {% endif %}
+ {% if page.amp.ad %}
+  {% include amp/ad.html %}
+ {% endif %}
+ {% if page.amp.twitter %}
+  {% include amp/twitter.html %}
+ {% endif %}
+ {% if page.amp.carousel %}
+  {% include amp/carousel.html %}
+ {% endif %}
+ {% if page.amp.iframe %}
+  {% include amp/iframe.html %}
+ {% endif %}
+ {% if page.amp.social-share %}
+  {% include amp/social-share.html %}
+ {% endif %}
+ {% if page.amp.sticky-ad %}
+  {% include amp/sticky-ad.html %}
+ {% endif %}
+
+{% endif %}
