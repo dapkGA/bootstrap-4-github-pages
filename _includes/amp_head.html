@@ -9,7 +9,7 @@
   {% include amp/sticky-ad.html %}
   {% include amp/auto-ads.html %}
   {% include amp/social-share.html %}
-  
+  {% include amp/font.html %}
 
 {% if page.amp %} 
  {if page.amp.youtube %}
@@ -24,8 +24,8 @@
  {% if page.amp.video %}
   {% include amp/video.html %}
  {% endif %}
- {% if page.amp.ad %}
-  {% include amp/ad.html %}
+ {% if page.amp.jwplayer %}
+  {% include amp/jwplayer.html &}
  {% endif %}
  {% if page.amp.twitter %}
   {% include amp/twitter.html %}
