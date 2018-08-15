@@ -24,6 +24,12 @@
  {% if page.amp.video %}
   {% include amp/video.html %}
  {% endif %}
+ {% if page.amp.audio %}
+  {% include amp/audio.html %}
+ {% endif %
+ {% if page.amp.fx-collection %}
+  {% include amp/fx-collection.html %}
+ {% endif %}
  {% if page.amp.jwplayer %}
   {% include amp/jwplayer.html &}
  {% endif %}
@@ -35,6 +41,9 @@
  {% endif %}
  {% if page.amp.iframe %}
   {% include amp/iframe.html %}
+ {% endif %}
+ {% if page.amp.flying-carpet %}
+  {% include amp/fx-flying-carpet.html %}
  {% endif %}
 {% endif %}
 {% include amp/boilerplate.html %}
