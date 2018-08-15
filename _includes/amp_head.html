@@ -1,9 +1,18 @@
 <head>
-{% if page.amp %}
- {% if page.amp.analytics %}
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+  {% include amp/v0.html %}
   {% include amp/analytics.html %}
- {% endif %}
- {% if page.amp.youtube %}
+  {
+  {% include amp/social-share.html %}
+  {% include amp/ad.html %}
+  {% include amp/sticky-ad.html %}
+
+
+{% if page.amp %} 
+ {if page.amp.youtube %}
   {% include amp/youtube.html %}
  {% endif %}
  {% if page.amp.facebook %}
@@ -27,12 +36,7 @@
  {% if page.amp.iframe %}
   {% include amp/iframe.html %}
  {% endif %}
- {% if page.amp.social-share %}
-  {% include amp/social-share.html %}
- {% endif %}
- {% if page.amp.sticky-ad %}
-  {% include amp/sticky-ad.html %}
- {% endif %}
-
 {% endif %}
+{% include amp/boilerplate.html %}
+{% include amp/style.html %}
 </head>
