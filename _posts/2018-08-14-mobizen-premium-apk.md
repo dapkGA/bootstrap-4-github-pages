@@ -46,7 +46,7 @@ You can keep up-to-date with Mobizen Features, News, and the continually growing
 
 ### Download APK
 
-{% include playstore %}
+{% include playstore.md %}
 
 [Download](/dl/mega?fn=MobizenPremiumV3.5.1.10.apk&sz=33.8MB&hash=h1lDGZwD!cJbU22nlbFhIf45mDuVrTBaSjv-VVuZ2HeRRxAkD344){:.btn.btn-info} 
 {:.text-center}
